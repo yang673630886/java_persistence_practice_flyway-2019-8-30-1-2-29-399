@@ -1,0 +1,1 @@
+alter table employee rename column vosition to position;

@@ -3,7 +3,7 @@ CREATE TABLE employee
    id INTEGER PRIMARY KEY,
    name VARCHAR (64) NOT NULL,
    age int (4) NOT NULL,
-   position VARCHAR (64) NOT NULL
+   vosition VARCHAR (64) NOT NULL
 );
 CREATE TABLE user
 (
